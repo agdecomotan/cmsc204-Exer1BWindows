@@ -112,7 +112,7 @@ namespace ExerciseWindows1B
             {
                 // Get data of header
                 Patient patient = header.Data;
-                labelContent = "Current patient is " + patient.Name + ". Nature of concern " + patient.Concern + ".";
+                labelContent = "Current patient is " + patient.Name + ".\n Nature of concern " + patient.Concern + ".";
                 
                 // Set next node of header as the new header
                 Node nextNode = header.Next;
