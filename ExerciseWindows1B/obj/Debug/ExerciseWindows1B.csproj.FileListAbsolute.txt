@@ -1,0 +1,15 @@
+C:\Users\00357\Documents\Documents\MIS\CMSC 204\Exercise 1A\ExerciseWindows1B\ExerciseWindows1B\ExerciseWindows1B\bin\Debug\ExerciseWindows1B.exe.config
+C:\Users\00357\Documents\Documents\MIS\CMSC 204\Exercise 1A\ExerciseWindows1B\ExerciseWindows1B\ExerciseWindows1B\bin\Debug\ExerciseWindows1B.exe
+C:\Users\00357\Documents\Documents\MIS\CMSC 204\Exercise 1A\ExerciseWindows1B\ExerciseWindows1B\ExerciseWindows1B\bin\Debug\ExerciseWindows1B.pdb
+C:\Users\00357\Documents\Documents\MIS\CMSC 204\Exercise 1A\ExerciseWindows1B\ExerciseWindows1B\ExerciseWindows1B\obj\Debug\ExerciseWindows1B.csprojAssemblyReference.cache
+C:\Users\00357\Documents\Documents\MIS\CMSC 204\Exercise 1A\ExerciseWindows1B\ExerciseWindows1B\ExerciseWindows1B\obj\Debug\MainWindow.g.cs
+C:\Users\00357\Documents\Documents\MIS\CMSC 204\Exercise 1A\ExerciseWindows1B\ExerciseWindows1B\ExerciseWindows1B\obj\Debug\App.g.cs
+C:\Users\00357\Documents\Documents\MIS\CMSC 204\Exercise 1A\ExerciseWindows1B\ExerciseWindows1B\ExerciseWindows1B\obj\Debug\ExerciseWindows1B_MarkupCompile.cache
+C:\Users\00357\Documents\Documents\MIS\CMSC 204\Exercise 1A\ExerciseWindows1B\ExerciseWindows1B\ExerciseWindows1B\obj\Debug\ExerciseWindows1B_MarkupCompile.lref
+C:\Users\00357\Documents\Documents\MIS\CMSC 204\Exercise 1A\ExerciseWindows1B\ExerciseWindows1B\ExerciseWindows1B\obj\Debug\MainWindow.baml
+C:\Users\00357\Documents\Documents\MIS\CMSC 204\Exercise 1A\ExerciseWindows1B\ExerciseWindows1B\ExerciseWindows1B\obj\Debug\ExerciseWindows1B.g.resources
+C:\Users\00357\Documents\Documents\MIS\CMSC 204\Exercise 1A\ExerciseWindows1B\ExerciseWindows1B\ExerciseWindows1B\obj\Debug\ExerciseWindows1B.Properties.Resources.resources
+C:\Users\00357\Documents\Documents\MIS\CMSC 204\Exercise 1A\ExerciseWindows1B\ExerciseWindows1B\ExerciseWindows1B\obj\Debug\ExerciseWindows1B.csproj.GenerateResource.cache
+C:\Users\00357\Documents\Documents\MIS\CMSC 204\Exercise 1A\ExerciseWindows1B\ExerciseWindows1B\ExerciseWindows1B\obj\Debug\ExerciseWindows1B.csproj.CoreCompileInputs.cache
+C:\Users\00357\Documents\Documents\MIS\CMSC 204\Exercise 1A\ExerciseWindows1B\ExerciseWindows1B\ExerciseWindows1B\obj\Debug\ExerciseWindows1B.exe
+C:\Users\00357\Documents\Documents\MIS\CMSC 204\Exercise 1A\ExerciseWindows1B\ExerciseWindows1B\ExerciseWindows1B\obj\Debug\ExerciseWindows1B.pdb
